@@ -10,7 +10,9 @@
   },
   "devDependencies": {
     "@tauri-apps/cli": "^1.4.0",
-    "parcel-bundler": "^1.12.5"
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.66.1",
+    "typescript": "^5.2.2"
   },
   "dependencies": {
     "monaco-editor": "^0.41.0",
