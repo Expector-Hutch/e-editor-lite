@@ -1,0 +1,19 @@
+{
+  "name": "e-editor-lite",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "parcel ./src/index.html",
+    "build": "parcel ./src/index.html",
+    "tauri": "tauri"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^1.4.0",
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "monaco-editor": "^0.41.0",
+    "monaco-themes": "^0.4.4"
+  }
+}
