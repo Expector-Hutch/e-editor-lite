@@ -9,13 +9,13 @@
     "tauri": "tauri"
   },
   "devDependencies": {
-    "@tauri-apps/cli": "^1.4.0",
+    "@tauri-apps/cli": "^1.6.1",
     "parcel-bundler": "^1.12.5",
-    "sass": "^1.66.1",
-    "typescript": "^5.2.2"
+    "sass": "^1.78.0",
+    "typescript": "^5.5.4"
   },
   "dependencies": {
-    "monaco-editor": "^0.41.0",
+    "monaco-editor": "^0.51.0",
     "monaco-themes": "^0.4.4"
   }
 }
