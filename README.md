@@ -1,3 +1,5 @@
+> 本仓库在最后一次提交后已废弃，项目将在[exp-editor](https://github.com/Expector-Hutch/exp-editor)上重构
+
 这几日被`electron`折磨了好久，索性就暂时放下`electron`去光顾了下`tauri`，这里记录下练手用的简单项目开发过程吧！
 
 首先得有一台安装了`msedge webview`以及`msvc`的`win`机器，然后要有`node.js`和`rust`的开发环境……
